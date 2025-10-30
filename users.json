@@ -1,0 +1,47 @@
+{
+    "admin@app.com": {
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "profile": {
+            "name": "Example  B",
+            "age": "18\u201325",
+            "gender": "Male",
+            "language": "English"
+        }
+    },
+    "srinivas280205@gmail.com": {
+        "password": "363087c3a0b3d70679fadf8467edfec9d946eb330c109dd620b75554a1e7f792",
+        "profile": {
+            "name": "",
+            "age": "18\u201325",
+            "gender": "Male",
+            "language": "English"
+        }
+    },
+    "srinivasefaef280205@gmail.com": {
+        "password": "9e6145b5f54c923b07817fc53ea7a2f2221cf6f5e2a85b61473825f71bc2ad00",
+        "profile": {
+            "name": "",
+            "age": "18\u201325",
+            "gender": "Male",
+            "language": "English"
+        }
+    },
+    "srinivafafas280205@gmail.com": {
+        "password": "babd273e1d428706e366377d5bcbb323414dd0e5e8fceeea3a6db4f0c1b4d597",
+        "profile": {
+            "name": "Example  B",
+            "age": "18\u201325",
+            "gender": "Male",
+            "language": "English"
+        }
+    },
+    "srit7it7inivas280205@gmail.com": {
+        "password": "ef609f55174b6e7045fd35b64becae2f343cfc55110b7b3daab938133a30144f",
+        "profile": {
+            "name": "",
+            "age": "18\u201325",
+            "gender": "Male",
+            "language": "English"
+        }
+    }
+}

@@ -1,0 +1,5 @@
+streamlit
+pyjwt
+langdetect
+pandas
+plotly

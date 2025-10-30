@@ -1,0 +1,110 @@
+[
+    {
+        "id": "msg_2_3a8e8032",
+        "email": "admin@app.com",
+        "query": "yenaku romba nerama fever adikra mari irukku na yenna panrathu",
+        "response": "🤖 **Fever Management (WHO/CDC Guidelines):**<br>1. Monitor: Measure and track your temperature regularly.<br>2. Fluids: Drink plenty of fluids (water, broth) to prevent dehydration.<br>3. Rest: Get adequate rest.<br>4. Cooling: Wear light clothes and use a cool compress.<br>5. Medication: Use paracetamol or ibuprofen as recommended for comfort.<br>6. Urgent Care: Seek a doctor if temperature is persistently above 39°C or lasts more than 3 days.",
+        "feedback": "up",
+        "comment": "",
+        "timestamp": "2025-10-30T13:10:35.164599"
+    },
+    {
+        "id": "msg_4_adbd9c54",
+        "email": "admin@app.com",
+        "query": "i feel dehydrated what shall i do",
+        "response": "🤖 Sorry, I don't have information on that...",
+        "feedback": "up",
+        "comment": "",
+        "timestamp": "2025-10-30T13:10:48.575957"
+    },
+    {
+        "id": "msg_6_adbd9c54",
+        "email": "admin@app.com",
+        "query": "Dehydrated ",
+        "response": "🤖 Sorry, I don't have information on that...",
+        "feedback": "down",
+        "comment": "NOT THERE",
+        "timestamp": "2025-10-30T13:12:15.012883"
+    },
+    {
+        "id": "msg_8_d8d79360",
+        "email": "admin@app.com",
+        "query": "thirsty",
+        "response": "🤖 **Dehydration Management (WHO/CDC Guidelines):**<br>1. Fluids: Drink small amounts of water or clear fluids constantly.<br>2. Electrolytes: Use Oral Rehydration Salts (ORS) or sports drinks to replace lost salts.<br>3. Rest: Avoid sun exposure or strenuous activity.<br>4. Urgent Care: Seek help if confusion, fast heart rate, or inability to keep fluids down occurs.",
+        "feedback": "none",
+        "comment": "",
+        "timestamp": "2025-10-30T13:12:28.234003"
+    },
+    {
+        "id": "msg_10_3a8e8032",
+        "email": "admin@app.com",
+        "query": "Fever",
+        "response": "🤖 **Fever Management (WHO/CDC Guidelines):**<br>1. Monitor: Measure and track your temperature regularly.<br>2. Fluids: Drink plenty of fluids (water, broth) to prevent dehydration.<br>3. Rest: Get adequate rest.<br>4. Cooling: Wear light clothes and use a cool compress.<br>5. Medication: Use paracetamol or ibuprofen as recommended for comfort.<br>6. Urgent Care: Seek a doctor if temperature is persistently above 39°C or lasts more than 3 days.",
+        "feedback": "none",
+        "comment": "",
+        "timestamp": "2025-10-30T13:13:03.261138"
+    },
+    {
+        "id": "msg_2_1c944a0e",
+        "email": "srinivafafas280205@gmail.com",
+        "query": "i had a minor burn on my left hand few minutes ago what i would suppose to do",
+        "response": "🤖 **Sunburn & Minor Burn First Aid (CDC Guidelines):**<br>1. Cool: Immediately run cool (not cold) water over the area for 10-15 minutes.<br>2. Moisturize: Apply aloe vera or a moisturizing lotion (not oil or butter).<br>3. Pain: Take over-the-counter pain relievers.<br>4. Protect: Keep the area covered and out of the sun.<br>5. Urgent Care: Seek help for burns larger than a few inches, deep burns, or severe blistering.",
+        "feedback": "up",
+        "comment": "",
+        "timestamp": "2025-10-30T13:29:26.738292"
+    },
+    {
+        "id": "msg_4_ca2b8df5",
+        "email": "srinivafafas280205@gmail.com",
+        "query": "cold",
+        "response": "🤖 **Cough & Cold Care (Basic Guidelines):**<br>1. Hydration: Drink warm liquids (like tea with honey).<br>2. Steam: Use a humidifier or take a steamy shower to clear congestion.<br>3. Rest: Ensure adequate sleep.<br>4. Medication: Over-the-counter medicines may help with symptoms.<br>5. Urgent Care: Consult a doctor if cough is persistent (>2 weeks) or accompanied by chest pain.",
+        "feedback": "up",
+        "comment": "",
+        "timestamp": "2025-10-30T13:29:42.886311"
+    },
+    {
+        "id": "msg_6_adbd9c54",
+        "email": "srinivafafas280205@gmail.com",
+        "query": "Minor",
+        "response": "🤖 Sorry, I don't have information on that...",
+        "feedback": "none",
+        "comment": "",
+        "timestamp": "2025-10-30T13:29:53.820307"
+    },
+    {
+        "id": "msg_2_65d04be4",
+        "email": "admin@app.com",
+        "query": "dam ghutna",
+        "response": "🤖 **Sprain/Strain Care (R.I.C.E. Principle):**<br>1. Rest: Avoid using the injured joint/limb for 48 hours.<br>2. Ice: Apply a cold compress or ice pack for 15-20 minutes, 3-4 times a day.<br>3. Compression: Use a compression bandage to reduce swelling.<br>4. Elevation: Keep the injury raised above your heart level.<br>5. Urgent Care: See a doctor if you cannot put weight on the joint or if swelling is severe.",
+        "feedback": "none",
+        "comment": "",
+        "timestamp": "2025-10-30T13:31:14.718458"
+    },
+    {
+        "id": "msg_4_090b5b6f",
+        "email": "admin@app.com",
+        "query": "बुखार",
+        "response": "🤖 **बुखार प्रबंधन (WHO/CDC दिशानिर्देश):**<br>1. निगरानी: अपना तापमान नियमित रूप से मापें और ट्रैक करें।<br>2. तरल पदार्थ: निर्जलीकरण को रोकने के लिए खूब तरल पदार्थ (पानी, शोरबा) पिएं।<br>3. आराम: पर्याप्त आराम करें।<br>4. ठंडा रखना: हल्के कपड़े पहनें और ठंडा सेक लगाएं।<br>5. दवा: आराम के लिए पैरासिटामोल या इबुप्रोफेन का उपयोग करें।<br>6. तत्काल देखभाल: यदि तापमान लगातार 39°C से ऊपर रहता है या 3 दिनों से अधिक चलता है तो डॉक्टर से मिलें।",
+        "feedback": "up",
+        "comment": "",
+        "timestamp": "2025-10-30T13:31:58.321039"
+    },
+    {
+        "id": "msg_6_320905e8",
+        "email": "admin@app.com",
+        "query": "kharaash",
+        "response": "🤖 **Sore Throat Relief (Basic Guidelines):**<br>1. Salt Water: Gargle with warm salt water several times a day.<br>2. Lozenges: Suck on lozenges or hard candy to keep the throat moist.<br>3. Warm Fluids: Drink warm liquids like herbal tea with honey.<br>4. Rest: Rest your voice and get plenty of sleep.<br>5. Urgent Care: See a doctor if symptoms are severe, include difficulty breathing, or last more than a week.",
+        "feedback": "down",
+        "comment": "the response in english",
+        "timestamp": "2025-10-30T13:32:17.325786"
+    },
+    {
+        "id": "msg_2_3a8e8032",
+        "email": "admin@app.com",
+        "query": "yenaku romba nerama fever adikra mari irukku na yenna panrathu",
+        "response": "🤖 **Fever Management (WHO/CDC Guidelines):**<br>1. Monitor: Measure and track your temperature regularly.<br>2. Fluids: Drink plenty of fluids (water, broth) to prevent dehydration.<br>3. Rest: Get adequate rest.<br>4. Cooling: Wear light clothes and use a cool compress.<br>5. Medication: Use paracetamol or ibuprofen as recommended for comfort.<br>6. Urgent Care: Seek a doctor if temperature is persistently above 39°C or lasts more than 3 days.",
+        "feedback": "none",
+        "comment": "",
+        "timestamp": "2025-10-30T14:43:28.103150"
+    }
+]
